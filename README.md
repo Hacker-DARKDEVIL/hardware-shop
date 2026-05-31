@@ -215,7 +215,9 @@ The entire color system is defined in `globals.css` as CSS custom properties:
 
 ## 📄 License
 
-© 2025 JEEVASH.D. All rights reserved
+© 2025 JEEVASH.D. All rights reserved.
+
+This source code is proprietary and confidential. No part of this codebase may be copied, modified, distributed, or used in any form without explicit written permission from the author.
 
 ---
 
